@@ -1,3 +1,4 @@
 {
   "input_shape": [null, 64, 64, 3],
+  "output_label":["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","Y","Z","nothing","del","space"]
 }
